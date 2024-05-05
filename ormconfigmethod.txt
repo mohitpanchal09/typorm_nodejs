@@ -1,0 +1,4 @@
+methods for orm config
+1. ormconfig.json
+2. .env
+3. .js/ts
